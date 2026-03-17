@@ -50,7 +50,6 @@ A DevSecOps project implementing a complete CI/CD workflow with automated builds
 ## Contact
 
 * **Email:** [yasmine_ayadi_ya@outlook.com](mailto:yasmine_ayadi_ya@outlook.com)
-* **LinkedIn:** [https://www.linkedin.com/in/yasmine-ayadi-1a032b292/](https://www.linkedin.com/in/yasmine-ayadi-1a032b292/)
 
 ---
 
